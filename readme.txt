@@ -22,3 +22,5 @@ Registro público de promesas mundialistas con tabla propia y páginas:
 - No incluye captcha ni medidas anti-bot. (Se gestiona fuera del plugin).
 - Buscador: solo por Nombre y Apellido.
 - Imágenes: no incluidas en esta versión.
+NOTAS:
+Debe ser acompañado por el plugin de censura de malas palabras censura.php que s epuede cargar dentro de la carpeta mu-plugin de wordpress 
